@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg"  class="linemap " viewBox="20 40 1200 1420" role="img" aria-label="Map to the wedding house">
+  <g class="lm-roads" fill="none" stroke-linejoin="round">
+    <g stroke="#4b3512" stroke-width="54"><path d="M190 30 V470"/><path d="M190 468 L757 612 L848 642"/><path d="M352 520 L190 682 V1540"/><path d="M190 241 H1160"/><path d="M757 150 V1000"/><path d="M575 585 V1540"/><path d="M190 1005 H575"/><path d="M40 1298 H800"/><path d="M30 797 L190 768"/><path d="M985 612 L1200 532"/><path d="M965 735 V985"/><path d="M880 716 L757 798"/><circle cx="930" cy="668" r="76"/></g>
+    <g stroke="#f7eed7" stroke-width="40"><path d="M190 30 V470"/><path d="M190 468 L757 612 L848 642"/><path d="M352 520 L190 682 V1540"/><path d="M190 241 H1160"/><path d="M757 150 V1000"/><path d="M575 585 V1540"/><path d="M190 1005 H575"/><path d="M40 1298 H800"/><path d="M30 797 L190 768"/><path d="M985 612 L1200 532"/><path d="M965 735 V985"/><path d="M880 716 L757 798"/><circle cx="930" cy="668" r="76"/></g>
+  </g>
+  <g class="lm-marks" fill="#4b3512" stroke="none">
+    <rect x="378" y="448" width="74" height="36" transform="rotate(14 415 466)"/>
+    <rect x="374" y="592" width="74" height="36"/>
+    <rect x="606" y="1330" width="66" height="30"/>
+    <!-- pagoda -->
+    <g transform="translate(585 462)">
+      <path d="M-78 18H78V30H-78Z"/>
+      <path d="M-62 18V-6H62V18Z" opacity=".9"/>
+      <path d="M-84 -4L-46 -30H46L84 -4Z"/>
+      <path d="M-54 -30L-24 -54H24L54 -30Z"/>
+      <path d="M-4 -54L0 -84L4 -54Z"/>
+      <path d="M-84 -4l-10 -16M84 -4l10 -16M-54 -30l-8 -14M54 -30l8 -14" stroke="#4b3512" stroke-width="5" fill="none"/>
+    </g>
+    <!-- bridges -->
+    <path d="M630 588 Q668 560 712 590 L700 622 Q666 602 640 618Z"/>
+    <path d="M728 336 Q700 380 728 424 L786 424 Q758 380 786 336Z"/>
+  </g>
+  <g class="lm-arrows" fill="none" stroke="#4b3512" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(190 395) rotate(90)"><path d="M-18 0H14M6 -8L16 0L6 8"/></g><g transform="translate(322 586) rotate(135)"><path d="M-18 0H14M6 -8L16 0L6 8"/></g><g transform="translate(190 752) rotate(90)"><path d="M-18 0H14M6 -8L16 0L6 8"/></g><g transform="translate(575 660) rotate(90)"><path d="M-18 0H14M6 -8L16 0L6 8"/></g><g transform="translate(785 632) rotate(180)"><path d="M-18 0H14M6 -8L16 0L6 8"/></g><g transform="translate(515 1005) rotate(180)"><path d="M-18 0H14M6 -8L16 0L6 8"/></g><g transform="translate(190 985) rotate(-90)"><path d="M-18 0H14M6 -8L16 0L6 8"/></g></g>
+  <g class="lm-labels" fill="#4b3512"><text class="lm-t lm-t--road" x="0" y="0" font-size="30" text-anchor="middle" dominant-baseline="central" transform="translate(345 241)">ផ្លូវ៦០ម៉ែត្រ</text><text class="lm-t lm-t--road" x="0" y="0" font-size="30" text-anchor="middle" dominant-baseline="central" transform="translate(960 241)">ផ្លូវ៦០ម៉ែត្រ</text><text class="lm-t lm-t--road" x="0" y="0" font-size="28" text-anchor="middle" dominant-baseline="central" transform="translate(190 190) rotate(-90)">ផ្លូវជាតិលេខ២</text><text class="lm-t lm-t--road" x="0" y="0" font-size="28" text-anchor="middle" dominant-baseline="central" transform="translate(1100 572) rotate(-20.4)">មកពីភ្នំពេញ</text><text class="lm-t lm-t--road" x="0" y="0" font-size="28" text-anchor="middle" dominant-baseline="central" transform="translate(965 870) rotate(-90)">ផ្លូវមាត់ទន្លេ</text><text class="lm-t lm-t--road" x="0" y="0" font-size="28" text-anchor="middle" dominant-baseline="central" transform="translate(757 880) rotate(-90)">ផ្លូវ១០៥</text><text class="lm-t" x="0" y="0" font-size="30" text-anchor="middle" dominant-baseline="central" transform="translate(470 1052)">ច្រកទី៥</text><text class="lm-t" x="0" y="0" font-size="32" text-anchor="middle" dominant-baseline="central" transform="translate(585 366)">វត្តព្រះពុទ្ធអណ្តែត</text><text class="lm-t lm-t--latin" x="0" y="0" font-size="27" text-anchor="middle" dominant-baseline="central" transform="translate(404 426) rotate(14)">Coffee Nobicah</text><text class="lm-t" x="0" y="0" font-size="28" text-anchor="middle" dominant-baseline="central" transform="translate(411 668)">កាក់សសាំង</text><text class="lm-t" x="0" y="0" font-size="30" text-anchor="start" dominant-baseline="central" transform="translate(806 382)">ស្ពាន៦០ម៉ែត្រ</text><text class="lm-t" x="0" y="0" font-size="24" text-anchor="middle" dominant-baseline="central" transform="translate(652 668)">ស្ពានព្រែកហូរ</text><text class="lm-t" x="0" y="0" font-size="26" text-anchor="middle" dominant-baseline="central" transform="translate(930 658)">រង្វង់មូល</text><text class="lm-t" x="0" y="0" font-size="26" text-anchor="middle" dominant-baseline="central" transform="translate(930 692)">តាខ្មៅ</text><text class="lm-t" x="0" y="0" font-size="28" text-anchor="start" dominant-baseline="central" transform="translate(606 1398)">ស្នាក់ការគណបក្ស</text></g>
+  <g class="lm-house" transform="translate(345 850)">
+    <circle class="lm-pulse" r="70" fill="none" stroke="#d9b15a" stroke-width="5"/>
+    <path d="M-44 -2L0 -44L44 -2V40H-44Z" fill="#4b3512"/>
+    <path d="M-12 40V14H12V40Z" fill="#f7eed7"/>
+    <path d="M-54 -2L0 -54L54 -2" fill="none" stroke="#4b3512" stroke-width="8"/>
+    <text x="-60" y="104" text-anchor="start" fill="#4b3512" class="lm-label">ផ្ទះកម្មវិធី</text>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "សិរីសួស្តីអាពាហ៍ពិពាហ៍ · រិទ្ធី & ធីដា",
+  "description": "ធៀបការឌីជីថល អាពាហ៍ពិពាហ៍ រិទ្ធី & ធីដា · Rithy & Thida Wedding Invitation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

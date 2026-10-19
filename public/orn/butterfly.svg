@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 80" width="100" height="80" aria-hidden="true">
+  <defs>
+    <linearGradient id="bfly-foil" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9c7124" />
+      <stop offset="25%" stop-color="#d9b15a" />
+      <stop offset="50%" stop-color="#fbefc0" />
+      <stop offset="75%" stop-color="#d9b15a" />
+      <stop offset="100%" stop-color="#9c7124" />
+    </linearGradient>
+  </defs>
+  <!-- Left Wing -->
+  <g transform="translate(100 0) scale(-1 1)">
+    <path d="M51 38 C58 14 82 1 94 10 C103 18 92 33 75 39 C66 42 57 41 51 40 Z" fill="url(#bfly-foil)" fill-opacity="0.95"/>
+    <path d="M51 42 C62 44 80 50 81 62 C82 74 66 76 59 66 C54 59 51 51 51 42 Z" fill="url(#bfly-foil)" fill-opacity="0.8"/>
+    <path d="M53 39 C64 30 76 20 90 13 M56 39 C68 36 80 33 92 24 M54 44 C62 52 70 58 78 64 M53 46 C57 56 61 64 66 70" fill="none" stroke="#5a4113" stroke-width="0.8" stroke-opacity="0.55"/>
+    <circle cx="86" cy="15" r="1.6" fill="#fff6d8" opacity="0.85"/>
+    <circle cx="90" cy="22" r="1.1" fill="#fff6d8" opacity="0.75"/>
+  </g>
+  <!-- Right Wing -->
+  <g>
+    <path d="M51 38 C58 14 82 1 94 10 C103 18 92 33 75 39 C66 42 57 41 51 40 Z" fill="url(#bfly-foil)" fill-opacity="0.95"/>
+    <path d="M51 42 C62 44 80 50 81 62 C82 74 66 76 59 66 C54 59 51 51 51 42 Z" fill="url(#bfly-foil)" fill-opacity="0.8"/>
+    <path d="M53 39 C64 30 76 20 90 13 M56 39 C68 36 80 33 92 24 M54 44 C62 52 70 58 78 64 M53 46 C57 56 61 64 66 70" fill="none" stroke="#5a4113" stroke-width="0.8" stroke-opacity="0.55"/>
+    <circle cx="86" cy="15" r="1.6" fill="#fff6d8" opacity="0.85"/>
+    <circle cx="90" cy="22" r="1.1" fill="#fff6d8" opacity="0.75"/>
+  </g>
+  <!-- Body & Antennae -->
+  <ellipse cx="50" cy="44" rx="2.4" ry="13" fill="url(#bfly-foil)"/>
+  <path d="M49 32 C46 22 42 16 37 12 M51 32 C54 22 58 16 63 12" fill="none" stroke="url(#bfly-foil)" stroke-width="1.2" stroke-linecap="round"/>
+  <circle cx="37" cy="12" r="1.5" fill="url(#bfly-foil)"/>
+  <circle cx="63" cy="12" r="1.5" fill="url(#bfly-foil)"/>
+</svg>
